@@ -80,3 +80,27 @@ footer .text-center p {
 p {
   font-size: 12px;
 }
+
+footer {
+  background-color: #231f20;
+  padding-top: 20px;
+}
+footer a, footer {
+  text-decoration: none;
+  color: #bfc0c1;
+}
+
+footer a:hover {
+  text-decoration:none;
+  color:#fff
+}
+.right-border {
+  border-right: 1px solid #333;
+}
+#footer-logo {
+  height: 110px;
+}
+
+footer .text-center p {
+  color: #333;
+}
